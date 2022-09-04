@@ -1,10 +1,9 @@
 AirBnB_clone
 
 Clone Project for AirBnb
-
 Authors
 
-Misganaw Tenaw misganawtenaw@gmail.com
+    Misganaw Tenaw misganawtenaw@gmail.com
 
 Description
 
